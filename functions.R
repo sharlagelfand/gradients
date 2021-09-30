@@ -7,7 +7,7 @@ generate_gradient_colours <- function(colour_1, colour_2, size, probability) {
   )
 }
 
-generate_points_from_grid <- function(xmin, xmax, ymin, ymax, colour_1, colour_2, granularity = 100) {
+generate_points_from_grid <- function(xmin, xmax, ymin, ymax, colour_1, colour_2, granularity = 100, horizontal = NULL) {
   x_size <- xmax - xmin
   y_size <- ymax - ymin
 
@@ -26,7 +26,11 @@ generate_points_from_grid <- function(xmin, xmax, ymin, ymax, colour_1, colour_2
     return(grid)
   }
 
-  horizontal_gradient <- x_size > y_size
+  if (is.null(horizontal)) {
+    horizontal_gradient <- x_size > y_size
+  } else {
+    horizontal_gradient <- horizontal
+  }
 
   if (horizontal_gradient) {
     grid <- grid %>%

@@ -3,6 +3,10 @@
 
 i love geom\_point() okay
 
+## live wire
+
+<img src="live_wire/live_wire.png" title="A series of fifteen gradients going from bright green to bright red. They vary in width and some are very narrow, but they are all the same height. Some of the gradients go vertically, from green to red or from red to green, and some go horizontally. They are all placed on top of a red rectangle, the same colour as the red in the gradient." alt="A series of fifteen gradients going from bright green to bright red. They vary in width and some are very narrow, but they are all the same height. Some of the gradients go vertically, from green to red or from red to green, and some go horizontally. They are all placed on top of a red rectangle, the same colour as the red in the gradient." width="3600" />
+
 ## strange airlines
 
 <img src="strange_airlines/strange_airlines.png" title="Eight vertical strips, each going in gradient from either mid tone blue to sky blue, or sky blue to mid tone blue, in alternating order. The gradient makes it almost looks like a checkerboard of the colours, with a noisy band mid way through the strips." alt="Eight vertical strips, each going in gradient from either mid tone blue to sky blue, or sky blue to mid tone blue, in alternating order. The gradient makes it almost looks like a checkerboard of the colours, with a noisy band mid way through the strips." width="2700" />
