@@ -6,6 +6,13 @@ output: github_document
 
 i love geom_point() okay
 
+## strange airlines
+
+```{r, echo = FALSE, fig.alt = "Eight vertical strips, each going in gradient from either mid tone blue to sky blue, or sky blue to mid tone blue, in alternating order. The gradient makes it almost looks like a checkerboard of the colours, with a noisy band mid way through the strips."}
+knitr::include_graphics("strange_airlines/strange_airlines.png")
+```
+
+
 ## Phantom's Shadow
 
 A recreation of [my piece made in procreate](https://twitter.com/sharlagelfand/status/1418021325822701574) (which is a reinterpretation of [Odili Donald Odita's "Phantom's Shadow"](https://www.stevenson.info/exhibition/3088/work/3))

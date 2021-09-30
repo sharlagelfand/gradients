@@ -3,6 +3,10 @@
 
 i love geom\_point() okay
 
+## strange airlines
+
+<img src="strange_airlines/strange_airlines.png" title="Eight vertical strips, each going in gradient from either mid tone blue to sky blue, or sky blue to mid tone blue, in alternating order. The gradient makes it almost looks like a checkerboard of the colours, with a noisy band mid way through the strips." alt="Eight vertical strips, each going in gradient from either mid tone blue to sky blue, or sky blue to mid tone blue, in alternating order. The gradient makes it almost looks like a checkerboard of the colours, with a noisy band mid way through the strips." width="2700" />
+
 ## Phantom’s Shadow
 
 A recreation of [my piece made in
