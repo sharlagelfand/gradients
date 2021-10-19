@@ -3,6 +3,12 @@
 
 i love geom\_point() okay
 
+## grid
+
+A recreation of [Will Creech’s Grid](https://t.co/TsVepY73b6?amp=1)
+
+<img src="grid/grid.png" title="Nine white squares arranged in a three by three grid on a deep blue background. The four corner squares each have a gradient from deep blue to the white, but only on the sides of the squares that match their position. For example, the top right square's top and right sides go from blue on the outside to white on the inside, but the left and bottom sides are completely white. The other squares around the perimeter each have a gradient on all sides except their innermost side - the right perimeter square has a gradient from blue to white on all sides except the left. The center square has a gradient on all four sides." alt="Nine white squares arranged in a three by three grid on a deep blue background. The four corner squares each have a gradient from deep blue to the white, but only on the sides of the squares that match their position. For example, the top right square's top and right sides go from blue on the outside to white on the inside, but the left and bottom sides are completely white. The other squares around the perimeter each have a gradient on all sides except their innermost side - the right perimeter square has a gradient from blue to white on all sides except the left. The center square has a gradient on all four sides." width="4500" />
+
 ## live wire
 
 <img src="live_wire/live_wire.png" title="A series of fifteen gradients going from bright green to bright red. They vary in width and some are very narrow, but they are all the same height. Some of the gradients go vertically, from green to red or from red to green, and some go horizontally. They are all placed on top of a red rectangle, the same colour as the red in the gradient." alt="A series of fifteen gradients going from bright green to bright red. They vary in width and some are very narrow, but they are all the same height. Some of the gradients go vertically, from green to red or from red to green, and some go horizontally. They are all placed on top of a red rectangle, the same colour as the red in the gradient." width="3600" />
